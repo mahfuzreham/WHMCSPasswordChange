@@ -10,9 +10,9 @@ function PasswordChange_config(): array
 {
     return [
         'name' => 'Password Change for WHMCS',
-        'description' => 'Manually change passwords for users',
-        'version' => '1.0',
-        'author' => 'DennisHermannsen'
+        'description' => 'Admin change passwords for users',
+        'version' => '2.0',
+        'author' => 'Md Mahfuz Reham'
     ];
 }
 
